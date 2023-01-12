@@ -4,6 +4,7 @@ practice solving algorithm problem by python.
 # table of contents
 - Backtracking
     - p9663 : need to check optimization related to backtracking.
+- BinarySearch
 
 # reference site
 - https://dailylifeofdeveloper.tistory.com/233
